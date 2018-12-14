@@ -6,4 +6,4 @@ In Markdown, links are added using the following syntax structure:
 [Link Text](Link URL)
 --->
 
-Link to homepage: [Home] (https://1819-pawd01.github.io/midterm-kayyyyyyy/)
+Link to homepage: [Home] (https://1819-pawd01.github.io/midterm-kayyyyyyy/index.html)
