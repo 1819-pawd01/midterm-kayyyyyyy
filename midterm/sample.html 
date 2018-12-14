@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<!-- Kay Glavin -->
+<!-- Due date -->
+<!-- First Project -->
+<html>
+<head>
+    <link rel="sytlesheet" href="filename.css">
+    <!-- link to CSS -->
+    <!-- metadata -->
+    <meta charset="utf-8">
+    <meta name="description" content="Put a detailed description here">
+    <meta name="keywords" content="Put in keywords separated by commans here">
+    <title> Title show up in the browser tab </title>
+    <link rel="shortcut icon" href="favicon">
+    <!-- favicon -->
+</head>
+
+<body>
+    <!-- Header section -->
+    <header> </header>
+    <!-- Main section -->
+    <main>
+    </main>
+    <!-- Footer section -->
+    <footer>
+    </footer>
+    
+</body>
+
+</html>

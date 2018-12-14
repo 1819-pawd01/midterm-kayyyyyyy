@@ -1,0 +1,42 @@
+/*
+* Kayleigh Glavin
+* Due Date
+* First Project
+*/
+
+/* The universal selector */
+
+* {}
+
+/* Body attributes here */
+
+}
+
+table,
+th,
+td {
+    border: 2px solid gray;
+    color: pink
+}
+
+table {
+    border-collapse:collapse;
+    width: 300px
+}
+
+th {
+    color: lightpink;
+    text-align: left;
+    padding: 18px;
+}
+
+td {
+    color: darkgray;
+    text-align: center;
+    vertical-align: middle;
+    padding: 5px;
+}
+
+body {
+    background-color: white;
+    font-family: sans-serif;

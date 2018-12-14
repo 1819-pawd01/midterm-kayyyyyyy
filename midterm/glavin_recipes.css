@@ -1,0 +1,36 @@
+/*
+* Kayleigh Glavin
+* Due Date
+* First Project
+*/
+
+/* The universal selector */
+
+* {}
+
+/* Body attributes here */
+
+body {
+    background-color: lightblue;
+    color: dimgray;
+    font-family: sans-serif;
+
+}
+li {
+    font-style: italic;
+}
+a:link {
+    color: snow;
+    text-decoration: underline;
+}
+a:visited {
+    color:paleturquoise;
+    text-decoration: underline;
+}
+a:hover, 
+a: focus {
+    color: darkseagreen;
+    
+}
+active:active 
+}

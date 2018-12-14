@@ -1,0 +1,120 @@
+/*
+* Kayleigh Glavin
+* Due Date
+* First Project
+*/
+
+/* The universal selector */
+
+* {}
+
+/* Body attributes here */
+
+table,
+th,
+td {
+    border: 2px solid gray;
+    color: pink
+}
+
+th:hover {
+    background-color: darksalmon;
+
+}
+
+td:hover {
+    background-color: darkslateblue;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th {
+    color: slategray;
+    text-align: center;
+    padding: 18px;
+}
+
+td {
+    color: steelblue;
+    text-align: center;
+    vertical-align: middle;
+    padding: 5px;
+}
+
+body {
+    background-color: antiquewhite;
+    font-family: sans-serif;
+    text-decoration-color: dimgray;
+    text-align: center;
+}
+
+h1 {
+    color: lightsteelblue;
+}
+
+h2 {
+    color: hotpink;
+}
+
+li {
+    color: darkseagreen;
+}
+
+dl {
+    color: palevioletred;
+}
+
+img {
+    height: 222px;
+    width: 300px;
+    float: inherit;
+}
+
+figcaption {
+    color: lightblue;
+}
+
+a:link {
+    color: aqua;
+    text-decoration: underline;
+}
+
+a:visited {
+    color: white;
+    text-decoration: line-through;
+}
+
+
+input:focus {
+    background-color: darkseagreen;
+
+}
+
+a:active {}
+
+
+blockquote {
+    color: darkorange; 
+    color: darkgray;
+}
+    
+/* Class Selectors */
+.table-headers{
+    text-decoration: underline overline;
+}
+
+
+/* ID Selectors */
+#html-table{
+    color:forestgreen;
+}
+
+#css-table{
+    color:blue;
+}
+
+#attribute-table{
+    color:coral;
+}
